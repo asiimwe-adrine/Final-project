@@ -1,0 +1,12 @@
+.Treasury{
+    background-color: green;
+}
+.Aduu{
+    display: flex;justify-content: space-around;padding: 10px;background-color: brown; 
+}
+.tt{
+    text-align: center;
+}
+.nn{
+    text-align: center;
+}
